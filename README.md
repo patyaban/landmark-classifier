@@ -1,4 +1,4 @@
-Identificación de Imagenes Globales y Locales
+## Identificación de Imagenes Globales y Locales
 
 Este proyecto es una solución de Deep Learning desarrollada en PyTorch para clasificar imagenes icónicos del mundo, incluyendo la integración de la Catedral de Santa Cruz de la Sierra como categoría local.
 
