@@ -3,7 +3,7 @@
 Este proyecto presenta una solución de aprendizaje profundo (*Deep Learning*) desarrollada en PyTorch para la identificación de puntos de referencia icónicos. El sistema ha sido entrenado para reconocer monumentos globales y categorías locales.
 
 ## 🎥 Presentación del Proyecto
-* [**▶️ Ver video explicativo en YouTube**]( INSERTA_TU_LINK_AQUI ) 
+* [**▶️ Ver video explicativo en YouTube**][https://youtu.be/ExH1R0zIldQ]
 
 ## 🚀 Resultados Principales
 El análisis contrasta el rendimiento entre una arquitectura propia y modelos de *Transfer Learning*.
